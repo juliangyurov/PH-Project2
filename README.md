@@ -6,7 +6,7 @@
 
 - Designing your layout
 
-- Making the basic game work: `UIButton` and `CALayer`
+- Making the basic game work: `UIButton` and `CGLayer`
 
 - Guess which flag: random numbers
 
